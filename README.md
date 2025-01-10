@@ -17,4 +17,4 @@ Here is a visual preview of the application:
 The interface updates dynamically, ensuring users can easily track and manage their tasks in real-time.
 
 Here is another preview showing the task completion counters:
-![alt text](image-3.png)
+![alt text](image.png)
